@@ -1,1 +1,1 @@
-Modification du fichier temporaire avant de le coloner sur le repository local.
+Modification du fichier temporaire.
